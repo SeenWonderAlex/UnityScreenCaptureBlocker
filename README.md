@@ -59,6 +59,7 @@ Some of the softwares that are certainly be blocked:
  - Windows' Snipping Tool
  - Mac's Screenshot Tool
  - OBS' Screen & Window Capture
+ - Any browser that screen shares or shares a window
  - Any software that uses Windows' Screen Capture API
 
 You should know that this does not block 100% of the time. **Do not use this plugin and be certain that it blocks everything.** There are some situations that can bypass this plugin.
