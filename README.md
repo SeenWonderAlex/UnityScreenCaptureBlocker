@@ -68,6 +68,7 @@ You should know that this does not block 100% of the time. **Do not use this plu
 
 This includes:
 - OBS' Game Capture
+- Recording your whole screen in QuickTime.
 - Mirroring your screen on Mac.
 - Capture Cards (specifically Elgato's Game Capture Card)
 - As well, taking a picture from your phone or another device.
