@@ -1,6 +1,6 @@
 # Unity Game's Screenshot Blocker
 <p>
-Stops the player's ability to screenshot or record your Unity game in **most** softwares. This plugin is useful if you have beta testers in your game and don't want them to record or capture any gameplay in your game.<br>
+Stops the player's ability to screenshot or record your Unity game in <strong>most</strong> softwares. This plugin is useful if you have beta testers in your game and don't want them to record or capture any gameplay in your game.<br>
 Another thing that this can be useful is preventing any sensitive information (according to your game) to be leaked.<br>
 THIS DOES NOT WORK 100% OF THE TIME!<br>
 You can enable this in runtime, as well disabling it and restoring normal functionality.
@@ -48,6 +48,8 @@ Almost all major platforms are supported with this plugin:
  - Mac (Build Only)
  - Android
  - iOS
+
+This works with Mono and IL2CPP.
  
 ## What does it block?
 It blocks the device's built-in feature for screenshotting or recording. This varies on each platform which can perform differently. 
