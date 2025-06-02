@@ -61,14 +61,14 @@ Some of the softwares that are certainly be blocked:
  - Windows' Snipping Tool
  - Mac's Screenshot Tool
  - OBS' Screen & Window Capture
+ - Recording your screen in QuickTime.
  - Any browser that screen shares or shares a window
  - Any software that uses Windows' Screen Capture API
 
 You should know that this does not block 100% of the time. **Do not use this plugin and be certain that it blocks everything.** There are some situations that can bypass this plugin.
 
 This includes:
-- OBS' Game Capture
-- Recording your whole screen in QuickTime.
+- OBS' Game Capture (Note: there is unused code of this, but it crashes instead of blocking)
 - Mirroring your screen on Mac.
 - Capture Cards (specifically Elgato's Game Capture Card)
 - As well, taking a picture from your phone or another device.
